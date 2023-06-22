@@ -1,4 +1,3 @@
-# AcmeCorp
 AcmeCorp.API
 AcmeCorp.API. is a REST API application in Asp.Net Core Web api. It provides APIs for managing customers contacts and orders which has the following functionalities
 •	Add Customers
